@@ -1,0 +1,413 @@
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter an integer: 
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter an integer: 
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter an integer: 
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter an integer: 
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter position(strarts from 0) of element to fetch: 
+
+
+The element at position 3 is 56
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter an element to be removed: 
+
+Element deleted successfully
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+The elements in the list are: 
+
+12	
+24	
+45	
+
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter an integer: 
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter an integer: 
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter an integer: 
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+34 is deleted from the list
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+The elements in the list are: 
+
+12	
+24	
+45	
+49	
+23	
+
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter position(strarts from 0) of element to remove: 
+
+23 is deleted from the list
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+The elements in the list are: 
+
+12	
+24	
+45	
+49	
+
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter position(strarts from 0) of element to fetch: 
+
+
+The element at position 3 is 49
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter an integer: 
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter an integer: 
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter an integer: 
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Invalid choice!!!.....Try again!!!!....
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter an integer: 
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+The elements in the list are: 
+
+12	
+34	
+56	
+78	
+
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter an integer: 
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+The elements in the list are: 
+
+12	
+34	
+56	
+78	
+90	
+
+
+
+Menu
+1. Add Element
+2. Get Element
+3. Remove Element
+4. Pop last element
+5. Pop at a position
+6. Display elements
+7. Exit
+
+
+Enter your choice: 
+
+Enter position(strarts from 0) of element to fetch: 
+
